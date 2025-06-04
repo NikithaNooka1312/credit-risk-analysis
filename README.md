@@ -70,6 +70,6 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, SHAP, joblib,  JSON
 Data Analytics & Business Analytics Enthusiast  
 📧 nikithanooka22@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/nikithanooka22)  
+🔗 [LeetCode](https://leetcode.com/u/NikithaNooka/) 
 🔗 [HackerRank](https://www.hackerrank.com/profile/NIKITHANOOKA22)  
-🔗 [LeetCode](https://leetcode.com/u/NikithaNooka/)  
 
